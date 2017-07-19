@@ -1,1 +1,3 @@
-# Caribelentes
+JP Basic Theme
+===========
+
