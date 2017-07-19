@@ -1,3 +1,0 @@
-JP Basic Theme
-===========
-
